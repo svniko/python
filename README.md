@@ -2,7 +2,7 @@
 <ul>
   <li>Тема 1
   <ul>
-     <li> <a href= "https://github.com/svniko/python_en/blob/master/Lecture_1_en.pdf">Лекція 1. </a></li>
+     <li> <a href= "https://github.com/svniko/python/blob/master/Lecture_1_ua.ipynb">Лекція 1</a></li>
      <li> <a href= "https://github.com/svniko/python/blob/master/Lecture_1_ua.ipynb">Додаткові матеріали до лекції 1</a></li>
      <li> <a href= "https://github.com/svniko/python_en/blob/master/Lecture_2.ipynb">Лекція 2. Основні конструкції мови Python для наукових обчислень</a></li>
      <li> <a href= "https://github.com/svniko/python/blob/master/Lab_1_ua.pdf">Лабораторна робота № 1. Основи роботи в середовищі Jupyter Notebook</a></li>
