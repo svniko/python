@@ -9,7 +9,7 @@
      </ul>
    <li>Topic 2  </li>
        <ul>
-     <li> Лекція 3. Вступ до Numerical Python (NumPy) (незабаром)</li>
-     <li>Лабораторна робота № 2. Основи роботи з  бібліотекою NumPy (незабаром)</li>
+     <li> <a href="https://github.com/svniko/python/blob/master/Lecture_3_ua.ipynb">Лекція 3. Вступ до Numerical Python (NumPy) </a></li>
+     <li><a href="https://github.com/svniko/python/blob/master/Lab_2_ua.pdf">Лабораторна робота № 2. Основи роботи з  бібліотекою NumPy </a></li>
          </ul>
   </ul> 
