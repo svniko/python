@@ -13,4 +13,8 @@
      <li><a href="https://github.com/svniko/python/blob/master/Lab_2_ua.pdf">Лабораторна робота № 2. Основи роботи з  бібліотекою NumPy </a></li>
        <li><a href="https://github.com/svniko/python_en/blob/master/Lecture_4.ipynb">Лекція №4. Просунутий NumPy (англ. мовою)</a></li>
          </ul>
+  <li>Тема 2  </li>
+  <ul>
+     <li> <a href="https://github.com/svniko/python/blob/master/Lab_3_ua.pdf">Лабораторна робота №3</a></li>
+    </ul>
   </ul> 
