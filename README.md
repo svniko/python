@@ -15,6 +15,7 @@
          </ul>
   <li>Тема 2  </li>
   <ul>
+     <li> <a href="https://github.com/svniko/python/blob/master/Lecture_6_LP.pdf">Лекція №6</a></li>
      <li> <a href="https://github.com/svniko/python/blob/master/Lab_3_ua.pdf">Лабораторна робота №3</a></li>
     </ul>
   </ul> 
